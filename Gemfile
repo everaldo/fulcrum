@@ -9,6 +9,7 @@ group :assets do
   gem 'uglifier'
   gem 'compass-rails'
   gem 'ejs'
+  gem 'therubyracer', platforms: :ruby
 end
 
 gem 'jquery-rails'
